@@ -1,0 +1,8 @@
+body{ background-color: rgb(155, 151, 146);}
+.a1{ text-align: center;
+}
+.a2{background-color: rgb(224, 194, 149);
+    border-style: double;
+border-color: blue;
+border-radius: 40px;}
+.a3{line-height: 170%;}
